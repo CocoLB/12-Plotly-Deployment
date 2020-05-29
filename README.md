@@ -13,7 +13,7 @@ We've been tasked by Improbable Beef to set up a dashboard webpage that displays
 ## Overview
 This project is about Data Visualization in JavaScript with data retrieved from a json file via the D3.json() API call - to test it, we set up our local server to bypass the CORS error message.
 
-<img src="scrnshts/scrsht 3.png" width=300">
+<img src="scrnshts/scrsht 3.png" width="300">
 
 At launching, the page only show the automatically-populated dropdown button. Then the event listener - HTML onchange="optionChanged(this.value) linked with the JavaScript funtion optionChanged()- launches the different Javascript functions that build the 4 elements of the page:
 
