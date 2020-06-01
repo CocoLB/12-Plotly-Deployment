@@ -10,6 +10,8 @@ function init() {
         .text(sample)
         .property("value", sample);
     });
+   optionChanged(sampleNames[0]);
+    
 })}
 
 // set the 4 functions building the metadata info, the bar chart, the gauge, and the bubble chart  
